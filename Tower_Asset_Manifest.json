@@ -1,0 +1,27 @@
+{
+  "asset": "Offshore Observation Tower",
+  "generator": "Offshore_Tower_Generator.py",
+  "blender_version": "4.5.3 LTS",
+  "units": "meters",
+  "height_m": 23.2,
+  "source_mesh_objects": 2468,
+  "optimized_draw_objects": 51,
+  "base_mesh_triangles_before_export_modifiers": 111080,
+  "optimized_export_triangles": 149104,
+  "glb_bytes": 10450464,
+  "collections": [
+    "01_Foundation",
+    "02_Lower_Deck",
+    "03_Utility_Rooms",
+    "04_Tapered_Shaft",
+    "05_Service_Platforms",
+    "06_Control_Room",
+    "07_Roof",
+    "08_Communications",
+    "09_Crane",
+    "10_Mechanical_Details",
+    "11_Markings",
+    "12_Internal_Structure"
+  ],
+  "textures": "Baked base color, ORM and tangent normal; packed into GLB"
+}
